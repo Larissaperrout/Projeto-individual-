@@ -1,0 +1,88 @@
+#título{
+    text-align: center;
+    text-decoration: underline;
+    animation-name: título;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+    color: plum;
+    background-color: darkmagenta;
+}
+@-o-keyframes título {
+    20% {color:blueviolet;}
+    30%{color: black;}
+    50%{color: beige;}
+}
+#text{
+    color: white;
+    background-color: black;
+}
+#pass{
+    color: white;
+    background-color: black;
+    width: 25px;
+}
+#cont{
+    background-color:black;
+}
+#dentro{
+    color: blueviolet;
+    background-color:black;
+    height: auto;
+    width: auto;
+    position: relative;
+    top: 150px;
+    left: 100px;
+
+
+
+
+}
+#resultado{
+text-align: left;
+padding:0.5px;
+position: absolute;
+background-color: aliceblue;
+color: black;
+
+}
+
+
+ h3{
+     color:plum;
+     font-style: oblique;
+ }
+ h2{
+     font-style: oblique;
+     color: plum;
+     font-variant: initial;
+     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+ }
+ h1{
+     color:plum;
+     display:flexbox;
+ }
+ body{
+     background-color:black;
+ }
+ ul {
+     font-style: oblique;
+    font-variant: initial;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 0;
+    padding: 0%;
+    
+     
+ }
+ #coloque{
+     background-color:darkmagenta;
+     color: plum;
+ }
+ 
+ li{
+     
+ }
+ 
+     
+
+ 
+
